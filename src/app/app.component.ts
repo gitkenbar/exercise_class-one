@@ -7,4 +7,9 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'exercise_class-one';
+  Name:string = "Kenneth";
+}
+
+export class MyName {
+  ;
 }
